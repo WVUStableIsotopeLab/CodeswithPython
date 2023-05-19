@@ -22,4 +22,4 @@ col2 = "B"
 
 data = pd.DataFrame({col1:x,col2:a}) 
 
-data.to_excel('sample_data.xlsx', sheet_name='sheet1', index=False) 
+data.to_excel('Hematite Cp.xlsx', sheet_name='sheet1', index=False) 
